@@ -1,0 +1,36 @@
+##############
+#nnnnnnnnnnnnn#
+#nnnnnnnnnnnnn#
+#nnnnnnnnnnnnnn#
+#nnnnnnnnnnnnnn#
+#nnnnnnnnnnnnnn#
+#nnnnnnnnnnnnnn#
+#####nnnnnnnnnn#
+    #nnnnnnnnnn#
+    #nnnnnnnnnn#
+    #nnnnnnnnnn#
+    #nnnnnnnnnn#
+      ##FF######
+      #FFFFF##
+      #FFFFFFF############
+      PFFFFFFFFFFF#FFFFFF#
+      PFFFFFFFFFFFFFFFFFF#
+      #FFFFFFFFFFF#FFFFFF#
+      #FFFFFFFFFFF#FFFFFF#
+      #FFF####FFFF#FFFFFF#
+      #FFF####FFFF#FFFFFF#
+     ##FFF####FFFF#FFFFFF#
+    #FFFFF####FFFFFFFFFFF#
+#####FFFFF####FFFF########
+#PFFFFFFFF###PFFFF#FFFFFF#
+#FFFFFFFFF####FFFFFFFFFFF#
+#FF##FFFFF####FFFF#FFFFFF#
+#FF#FFFFFF####FFFF#FFFFFF#
+#FF#FFFFFF####FFFF#FFFFFF#
+#FF#FFFFFF####FFFF#FFFFFF#
+#FF##FFFFF###PFFFF#FFFFFF#
+#FFFFFFFFF####FFFFFFFFFFF#
+#FFFFFFFFF####FFFF#FFFFFF#
+#FF####PP######PP#########
+#FF#######################
+##########################
