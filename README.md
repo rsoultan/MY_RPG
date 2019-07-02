@@ -3,7 +3,7 @@ Final C Graphical Programming project (CSFML 2.4 Required)
 
 The goal of this project was to create our own Role Playing Game in C thanks to the CSFML library in 7 weeks.
 
-The team:
+# The team:
 
 Quentin KLEBAUR
 
