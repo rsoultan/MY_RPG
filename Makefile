@@ -106,15 +106,21 @@ DEFAULT	=	\033[0m
 
 CC		=	@gcc -o
 
-NAME	=	program
+NAME	=	my_rpg_launcher
 
 CFLAGS	=	-W			\
 			-Wall		\
 			-Wextra		\
 			-Iinclude	\
 
+LDFLAGS	=	-lcsfml-graphics	\
+			-lcsfml-window		\
+			-lcsfml-audio		\
+			-lcsfml-system		\
+			-lm
+
 $(NAME):	$(OBJ)
-		$(CC) $(NAME) $(OBJ)
+		$(CC) $(NAME) $(OBJ) $(LDFLAGS)
 
 all:		$(NAME)
 	@echo -e "$(GREEN)$(ITALIC)>>>Compiled successfuly$(DEFAULT)"
@@ -130,7 +136,7 @@ fclean:	clean
 re:	fclean all
 
 test:	re
-	./$(NAME)
+	@./$(NAME)
 
 debug:		CFLAGS	+=	-g
 debug:		re
